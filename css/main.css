@@ -262,7 +262,7 @@ input.input100 {
   row-gap: 10px;
   grid-auto-flow: column;
   grid-column-gap: 10px;
-  font-size: 30px;
+  font-size: 5vh;
   color: #cccccc;
   line-height: 1.4;
 }
@@ -632,3 +632,4 @@ input.input100 {
   /*---------------------------------------------*/
 
 }
+
