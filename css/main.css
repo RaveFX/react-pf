@@ -257,6 +257,16 @@ input.input100 {
   line-height: 1.6666667;
 }
 
+.s1-txt6 {
+  font-family: Montserrat-Regular;
+  row-gap: 10px;
+  grid-auto-flow: column;
+  grid-column-gap: 10px;
+  font-size: 30px;
+  color: #cccccc;
+  line-height: 1.4;
+}
+
 /*//////////////////////////////////////////////////////////////////
 [ M-Text 16 - 25 ]*/
 .m1-txt1 {
